@@ -1,4 +1,6 @@
+# This is The same Movies DB Project Using the React Redux tool
 # Getting Started with Create React App
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
